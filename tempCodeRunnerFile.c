@@ -1,0 +1,2 @@
+] = "abcd"; //valid
+    // printf("%c
